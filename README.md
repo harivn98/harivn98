@@ -1,18 +1,20 @@
 Hello there, I'm HARIKRISHNA BASKARAN 🌍
 
-Welcome to my realm of data-driven exploration and analytical insights tailored for the field of Geotechnical engineering. I'm on a quest for intellectual discovery, deciphering spatial mysteries and translating raw data into actionable intelligence. Currently, I'm pursuing my M. Tech in Geotechnical Engineering at the prestigious National Institute of Technology (NIT), where I'm delving deep into the fusion of data science and geotechnical analysis.
+Welcome to my journey of transforming raw data into actionable insights and building robust data-driven solutions. With expertise in data engineering, machine learning, and visualization, I aim to push the boundaries of automation and innovation in the Industry 4.0 era. I am currently pursuing my M.Eng. in Industry 4.0: Automation, Robotics, & 3D Manufacturing at SRH Hochschule, Berlin, and my passion lies in harnessing data to solve real-world challenges.
 
 # 🔍 About Me
-📚 I'm an enthusiastic M.Tech candidate in Geotechnical Engineering at NITk, dedicated to mastering the intricacies of data within our field.
-🌐 Proficient in data visualization, manipulation, and advanced analytics techniques.
-📊 Skilled in applying data science methodologies to unearth hidden insights and facilitate data-driven decision-making processes.
+📚 I am an engineering professional with a B.E. in Mechanical Engineering and hands-on experience in data analysis, machine learning, and Azure-based data solutions.
+🌐 Skilled in designing pipelines, performing predictive analysis, and delivering insights through advanced visualizations.
+📊 Adept at combining technical expertise with business acumen to support decision-making and foster innovation.
 
 # 🎯 Career Aspirations
-My career aspirations revolve around roles in data science and analysis, with a specific emphasis on leveraging machine learning methodologies within the geotechnical domain. I'm committed to utilizing my skills and expertise in:
+I am driven to leverage my technical skills in roles that intersect data, automation, and manufacturing technologies. My aspirations include:
 
-**📈 Data Scientist:** Utilizing data-driven insights to inform decisions, foster innovation, and drive business growth within the geotechnical sphere.
+**📈 Data Scientist:** Building and optimizing scalable data pipelines and storage systems.
 
-**🔍 Data Analyst:** Diligently examining data to uncover valuable insights and provide the groundwork for strategic decision-making processes.
+**🔍 Data Analyst:** Crafting machine learning models to address complex industrial challenges.
+
+**🔍 Machine Learning Specialist:** Creating robust models for predictive analytics and intelligent systems.
 
 # 💼 My Skills
 **Programming Languages & Tools:**
@@ -32,23 +34,23 @@ My career aspirations revolve around roles in data science and analysis, with a 
 * 🐼 Pandas
 + 🔢 Numpy
 
-**Geotechnical Software:**
-- 🌍 Plaxis 2D
-* 🗺️ Geo5
-+ 🌐 Google Earth Engine
+**Mechanical Software:**
+- AutoCAD Inventor
+* Siemens NX
++ Ntop
 
-**Civil Software:**
-- 🏗️ AutoCAD
-* 🏢 ArcGIS
+**Languages:**
+- English: C1 Level
+- German: B1 Level
+- Tamil: Native Speaker
 
 # 📫 Let's Connect
 I'm always eager to connect with fellow data enthusiasts and spatial thinkers. Don't hesitate to reach out to me through:
 
-- **📧 Email:** amuthavelr.07@gmail.com
-* **💼 LinkedIn:** [www.linkedin.com/in/amuthavelr/]
+- **📧 Email:** vnhari98@gmail.com
+* **💼 LinkedIn:** [www.linkedin.com/in/harikrishnaba/]
 
 # 🚀 Charting the Future
-As I continue to navigate the landscape of data science, with a focus on deep learning applications in Geotechnical engineering, I am dedicated to shaping the future with data itself. Join me on this thrilling journey as we explore the realms of data, uncover hidden insights, and make a positive impact on our planet.
-
+🚀 As I advance my journey in Industry 4.0 and data-driven innovation, I am passionate about building a smarter and more sustainable future through technology. Let’s connect and collaborate on impactful projects! 🌍📊🔧
 
 Let's embark on this data-driven voyage together! 🌐📈🌍🧠
