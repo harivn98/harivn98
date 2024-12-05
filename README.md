@@ -1,4 +1,4 @@
-Hello there, I'm AMUTHAVEL R 🌍
+Hello there, I'm HARIKRISHNA B A 🌍
 
 Welcome to my realm of data-driven exploration and analytical insights tailored for the field of Geotechnical engineering. I'm on a quest for intellectual discovery, deciphering spatial mysteries and translating raw data into actionable intelligence. Currently, I'm pursuing my M. Tech in Geotechnical Engineering at the prestigious National Institute of Technology (NIT), where I'm delving deep into the fusion of data science and geotechnical analysis.
 
