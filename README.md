@@ -41,7 +41,7 @@ I am driven to leverage my technical skills in roles that intersect data, automa
 
 **Languages:**
 - English: C1 Level
-- German: B1 Level
+- German: B2 Level
 - Tamil: Native Speaker
 
 # 📫 Let's Connect
