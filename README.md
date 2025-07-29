@@ -24,7 +24,7 @@
 - 📦 Built a real-time object detection system using **YOLOv8**, trained on the **KITTI dataset**  
 - 🔍 Detects **vehicles**, **pedestrians**, and **cyclists** in RGB image streams  
 - 🧠 Deployed with bounding box predictions and confidence scoring  
-- 🔗 [Project Repo (coming soon)]()
+- 🔗 [Project Repo ([coming soon](https://github.com/harivn98/object_detection_kitti_dataset))]()
 
 ---
 
