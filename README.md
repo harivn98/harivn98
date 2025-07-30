@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Harikrishna Baskaran</h1>
 
 <p align="center">
-🌍 Data Enthusiast | 🧠 Machine Learning Explorer | 
+🌍 Data Enthusiast | 🧠 ML Explorer | 
 🎓 M.Eng. in Industry 4.0 @ SRH Hochschule Berlin | 💼 Intern @ Mercedes-Benz AG  
 </p>
 
