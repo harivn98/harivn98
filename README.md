@@ -24,7 +24,7 @@
 - 📈 Achieved **600-800 features/frame** with **98.5% matching accuracy** and **15-20 FPS** performance
 - 🌆 Successfully processed urban driving scenarios with **sub-meter trajectory accuracy**
 - 🧠 Demonstrated **computer vision**, **robotics algorithms**, and **3D mapping** expertise
-- 🔗 [**Project Repo**](https://github.com/harivn98/waymo-visual-slam)
+- 🔗 [**Project Repo**](https://github.com/harivn98/waymo-SLAM-Implementation)
 
 ### 🎯 YOLOv8 Object Detection System for Autonomous Driving  
 - 📦 Built a real-time object detection system using **YOLOv8**, trained on the **KITTI dataset**  
