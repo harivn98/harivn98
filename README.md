@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Harikrishna Baskaran</h1>
-
 <p align="center">
 🌍 Data Enthusiast | 🧠 ML Explorer | 
 🎓 M.Eng. in Industry 4.0 @ SRH Hochschule Berlin | 💼 Intern @ Mercedes-Benz AG  
@@ -8,23 +7,30 @@
 ---
 
 ## 🔍 About Me
-
-- 🎓 I'm currently pursuing my **Master’s in Industry 4.0: Automation, Robotics & 3D Manufacturing** at **SRH Hochschule, Berlin**  
+- 🎓 I'm currently pursuing my **Master's in Industry 4.0: Automation, Robotics & 3D Manufacturing** at **SRH Hochschule, Berlin**  
 - 💼 Interning at **Mercedes-Benz AG, Sindelfingen** in the field of **Geospatial Data Analytics**  
 - 🚗 Working on 3M+ map data points for highly automated driving systems  
 - 🤖 Interested in **Reinforcement Learning**, **SLAM**, **Computer Vision**, and **Deep Learning**  
-- 🧪 Recently completed: **YOLOv8 Object Detection System for Autonomous Driving**  
+- 🧪 Recently completed: **Visual SLAM Implementation with Waymo Dataset**  
 - 🌱 Currently learning: **RL-based Navigation**, **Pose Graph Optimization**, and **Lidar-Camera Fusion**  
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🗺️ Visual SLAM Implementation with Waymo Open Dataset
+- 🎯 Built a complete **Visual SLAM pipeline** from scratch using real-world autonomous driving data
+- 🔍 Implemented **ORB feature detection**, **FLANN matching**, and **pose estimation** algorithms
+- 📈 Achieved **600-800 features/frame** with **98.5% matching accuracy** and **15-20 FPS** performance
+- 🌆 Successfully processed urban driving scenarios with **sub-meter trajectory accuracy**
+- 🧠 Demonstrated **computer vision**, **robotics algorithms**, and **3D mapping** expertise
+- 🔗 [**Project Repo**](https://github.com/harivn98/waymo-visual-slam)
 
 ### 🎯 YOLOv8 Object Detection System for Autonomous Driving  
 - 📦 Built a real-time object detection system using **YOLOv8**, trained on the **KITTI dataset**  
 - 🔍 Detects **vehicles**, **pedestrians**, and **cyclists** in RGB image streams  
 - 🧠 Deployed with bounding box predictions and confidence scoring  
-- 🔗 ([Project Repo](https://github.com/harivn98/object_detection_kitti_dataset))
+- 🔗 [**Project Repo**](https://github.com/harivn98/object_detection_kitti_dataset)
 
 ---
 
@@ -39,6 +45,11 @@
 
 **Libraries & Frameworks:**  
 - `Pandas` • `NumPy` • `Scikit-learn` • `OpenCV` • `YOLOv8` • `TensorFlow` • `PyTorch`
+- `SciPy` • `Matplotlib` • `Seaborn` • `Plotly` • `FLANN` • `PIL`
+
+**Robotics & Computer Vision:**
+- `SLAM Algorithms` • `Feature Detection` • `Pose Estimation` • `3D Reconstruction`
+- `Epipolar Geometry` • `Bundle Adjustment` • `Structure from Motion`
 
 **Others:**  
 - `Fusion 360` • `Siemens NX` • `AutoCAD Inventor`  
@@ -47,7 +58,6 @@
 ---
 
 ## 🌐 Languages
-
 - 🇬🇧 English (C1)
 - 🇩🇪 German (B2)
 - 🇮🇳 Tamil (Native)
@@ -55,7 +65,6 @@
 ---
 
 ## 📫 Let's Connect!
-
 - 📧 Email: [vnhari98@gmail.com](mailto:vnhari98@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/harikrishnaba](https://www.linkedin.com/in/harikrishnaba/)  
 - 💻 GitHub: [github.com/harivn98](https://github.com/harivn98)
